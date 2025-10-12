@@ -54,12 +54,14 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:amirasadikov@gmail.com
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/hockeyguy123
         - name: Linkedin
           url: https://www.linkedin.com/in/amir-sadikov-045708133/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: ORCID
+          url: https://orcid.org/0000-0002-0253-3543
     assets:
         disableScrollBarStyle: true
     cover:
