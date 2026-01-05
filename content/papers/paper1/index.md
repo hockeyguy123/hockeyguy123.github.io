@@ -1,17 +1,15 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "LLM-Guided Evolutionary Program Synthesis for Quasi-Monte Carlo Design" 
+date: 2025-10-04
+author: ["Amir Sadikov"]
+summary: "LLM-guided evolutionary program synthesis discovers new best-known 2D finite low-discrepancy sets (N≥40), improves 3D benchmarks beyond proven optimality, and evolves Sobol’ parameters that reduce rQMC error in 32-D option pricing." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "LLM-Guided Evolutionary Program Synthesis for Quasi-Monte Carlo Design"
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    Text: "AAAI AI2ASE"
 
 ---
 
