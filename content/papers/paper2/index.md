@@ -2,7 +2,7 @@
 title: "Mapping the microstructure of human cerebral cortex in vivo with diffusion MRI" 
 date: 2025-07-22
 author: ["Amir Sadikov", "Hannah L. Choi", "Jaclyn Xiao", "Lanya T. Cai", "Pratik Mukherjee"]
-summary: "This paper maps diffusion MRI gray matter microstructure, providing four latent factors." 
+summary: "This paper presents neuromaps derived from diffusion tensor, diffusion kurtosis, mean apparent propagator, and neurite orientation dispersion and density imaging of the young adult cerebral cortex with four latent factors: diffusion kurtosis, simple diffusivity, complex diffusivity, and fractional anisotropy" 
 cover:
     image: "paper2.png"
     alt: "Title figure for paper 2"
