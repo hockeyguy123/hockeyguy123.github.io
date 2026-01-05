@@ -1,52 +1,22 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Estimating Brain Similarity Networks With Diffusion MRI" 
+date: 2025-08-01
+author: ["Amir Sadikov", "Hannah L Choi", "Lanya T Cai", "Pratik Mukherjee"]
+summary: "We propose diffusion similarity networks (DSNs), which employ rotationally invariant spherical harmonic features derived from diffusion magnetic resonance imaging (dMRI), to map gray matter structural organization." 
 cover:
     image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    alt: "Diffusion Similarity Networks"
     relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
-
----
-
+    
 ---
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
++ [Paper](https://pubmed.ncbi.nlm.nih.gov/40782044/)
++ [Code and Data](https://github.com/ucsfncl/DSN)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
-
----
-
-##### Citation
-
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
-
-```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
-```
-
----
-
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
+Structural similarity has emerged as a promising tool in mapping the network organization of an individual, living human brain. Here, we propose diffusion similarity networks (DSNs), which employ rotationally invariant spherical harmonic features derived from diffusion magnetic resonance imaging (dMRI), to map gray matter structural organization. Compared to prior approaches, DSNs showed clearer laminar, cytoarchitectural, and micro-architectural organization; greater sensitivity to age, cognition, and sex; higher heritability in a large dataset of healthy young adults; and straightforward extension to non-cortical regions. We show DSNs are correlated with functional, structural, and gene expression connectomes, and their gradients align with the sensory-fugal and sensorimotor-association axes of the cerebral cortex, including neuronal oscillatory dynamics, metabolism, immunity, and dopaminergic and glutaminergic receptor densities. DSNs can be easily integrated into conventional dMRI analysis, adding information complementary to structural white matter connectivity, and could prove useful in investigating a wide array of neurological and psychiatric conditions.
