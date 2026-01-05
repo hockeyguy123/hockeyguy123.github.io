@@ -14,7 +14,7 @@ cover:
 
 + [Paper](https://www.nature.com/articles/s42003-025-08523-9)
 + [Code and data](https://github.com/ucsfncl/diffusion_neuromaps)
-+ [Blog post] (https://communities.springernature.com/posts/mapping-the-human-cortex-in-vivo-with-diffusion-mri)
++ [Blog post](https://communities.springernature.com/posts/mapping-the-human-cortex-in-vivo-with-diffusion-mri)
 
 ---
 
