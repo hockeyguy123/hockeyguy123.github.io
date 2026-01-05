@@ -60,6 +60,8 @@ params:
           url: https://www.linkedin.com/in/amir-sadikov-045708133/
         - name: orcid
           url: https://orcid.org/0000-0002-0253-3543
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=hXTER5oAAAAJ&hl=en&oi=ao
     assets:
         disableScrollBarStyle: true
     cover:
