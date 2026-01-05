@@ -24,7 +24,7 @@ Despite advances in diffusion MRI, which have led to remarkable progress in mapp
 
 ---
 
-##### Figure 2: Mapping the human cortex in vivo with diffusion MRI
+##### Mapping the human cortex in vivo with diffusion MRI
 
 ![](paper2.png)
 
