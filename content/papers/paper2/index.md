@@ -1,61 +1,31 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "Mapping the microstructure of human cerebral cortex in vivo with diffusion MRI" 
+date: 2025-07-22
+author: ["Amir Sadikov", "Hannah L. Choi", "Jaclyn Xiao", "Lanya T. Cai", "Pratik Mukherjee"]
+summary: "This paper maps diffusion MRI gray matter microstructure, providing four latent factors." 
 cover:
     image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    alt: "Title figure for paper 2"
     relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
-
----
 
 ---
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
++ [Paper](https://www.nature.com/articles/s42003-025-08523-9)
++ [Code and data](https://github.com/ucsfncl/diffusion_neuromaps)
++ [Blog post] (https://communities.springernature.com/posts/mapping-the-human-cortex-in-vivo-with-diffusion-mri)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Despite advances in diffusion MRI, which have led to remarkable progress in mapping white matter of the living human brain, our understanding of cerebral cortical microstructure in vivo and its relationship to macrostructure, myeloarchitecture, cytoarchitecture, chemoarchitecture, metabolism, and function lag far behind. We present neuromaps of 21 microstructural metrics derived from diffusion tensor, diffusion kurtosis, mean apparent propagator, and neurite orientation dispersion and density imaging of the young adult cerebral cortex. These 21 metrics are explained by four composite factors that correspond to diffusion kurtosis (intracellular volume fraction/neurite density), isotropic diffusion (free water fraction), heterogenous diffusion (extracellular volume fraction) and diffusion anisotropy (neurite orientation dispersion). We demonstrate how cortical microstructure follows cytoarchitectural and laminar differentiation, aligns with the macroscale sensory-fugal and sensorimotor-association axes, and contributes to functional brain networks, neural oscillatory dynamics, neurotransmitter receptor/transporter distributions, and cognition and behavior.
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Figure 2: Mapping the human cortex in vivo with diffusion MRI
 
 ![](paper2.png)
 
----
 
-##### Citation
-
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
-
-```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
