@@ -4,7 +4,7 @@ date: 2025-10-04
 author: ["Amir Sadikov"]
 summary: "LLM-guided evolutionary program synthesis discovers new best-known 2D finite low-discrepancy sets (N≥40), improves 3D benchmarks beyond proven optimality, and evolves Sobol’ parameters that reduce rQMC error in 32-D option pricing." 
 cover:
-    image: "paper1.jpeg"
+    image: "paper1.png"
     alt: "LLM-Guided Evolutionary Program Synthesis for Quasi-Monte Carlo Design"
     relative: true
 editPost:
